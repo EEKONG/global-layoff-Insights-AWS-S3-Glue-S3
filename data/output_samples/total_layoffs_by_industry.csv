@@ -1,0 +1,35 @@
+industry,"sum(total_laid_off)"
+Transportation,19941.0
+Energy,352.0
+Sales,13160.0
+Travel,14108.0
+,2930.0
+Logistics,3787.0
+Infrastructure,5785.0
+NULL,
+Legal,836.0
+Healthcare,24481.0
+Marketing,9018.0
+Consumer,37036.0
+Food,19911.0
+Support,2737.0
+Media,4738.0
+Finance,26187.0
+Data,4474.0
+HR,1762.0
+Hardware,13547.0
+Construction,3623.0
+CryptoCurrency,68.0
+"Crypto Currency",
+Retail,38005.0
+Crypto,10499.0
+Product,1213.0
+Security,5444.0
+"Real Estate",13548.0
+Fin-Tech,195.0
+Education,7419.0
+Aerospace,661.0
+Other,30904.0
+Recruiting,2289.0
+Manufacturing,20.0
+Fitness,8119.0
